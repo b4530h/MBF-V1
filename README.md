@@ -1,7 +1,7 @@
 # MBF-V1
 10 Links Crack + 7+ custom pass
 
-pkg updat && upgrade -y
+pkg update && upgrade -y
 
 
 pkg install git -y 
